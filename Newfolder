@@ -1,0 +1,15 @@
+# MY STORY GENEROTER USING IN PYTHON PROGRAM:
+import random
+myfamily = ['father' ,'mother','sister','sister in law' ,'brother']
+name=['BOOMI','ANANTHAMMAL','MUTHU','SELVI','NAGARAJ','PUNITHA','PRIYA','BOOMIKA',"muthukumar"]
+dreambike=["R1 M",'yamaha',"extra"]
+acchivement=["hacker",'business man','racer','model',"exta"]
+qualification=['SCHOOL; pampoor','college;akshsya college eng','python course']
+dreamcar=['audi','lamboagini','rols rays','extra']
+favoriteplace=['kerala',"extra"]
+print(random.choice(myfamily)+'****', random.choice(name)+'****',random.choice(dreamcar)+'----',
+      random.choice(dreambike)+'-----',random.choice(acchivement)+'>>>>',random.choice(qualification)+
+      '<<<<<',random.choice(favoriteplace),':::''thank you')
+# your own ideas and  create own program thankyou.
+
+#<<<<<< TANK YOU PLEASE FELLOW >>>>>>
