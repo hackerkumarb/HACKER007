@@ -1,0 +1,7 @@
+#CREATE YOUR PASSWORD IN AUTOMATIC GENERATE PYTHON PROGRAM :
+import random
+pswd=int(input("enter the password ::"))
+pswdlen="muthukumar"
+value= "  ".join(random.sample(pswdlen,pswd))
+print(value)
+# <<<<TANK YOU>>>>
